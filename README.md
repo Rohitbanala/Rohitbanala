@@ -1,6 +1,1 @@
-<a href="https://githubtrends.io">
-  <img align="center" src="https://api.githubtrends.io/user/svg/rohitbanala/langs" />
-</a>
-<a href="https://githubtrends.io">
-  <img align="center" src="https://api.githubtrends.io/user/svg/rohitbanala/repos" />
-</a>
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
