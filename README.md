@@ -20,7 +20,7 @@
 - html, css, javaScript
 
 ## 📫 How to Reach Me
-- Email: [your-email@example.com](mailto:rohitbanala2003@gmail.com)
+- Email: [rohitbanala2003@gmail.com](mailto:rohitbanala2003@gmail.com)
 - LinkedIn: [linkedin.com/in/rohitbanala](https://linkedin.com/in/rohitbanala)
 
 
