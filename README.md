@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Rohit Banala! 👋<br><br>About Me:<br>Bachelor of Technology in Mechanical Engineering, now learning front-end development.<br>Currently learning JavaScript to broaden my development skills.<br>Working on personal projects to enhance my skills.<br><br>Projects:<br>Omnifood: A web app focused on personalized meal planning, developed using HTML and CSS.<br><br>Skills:<br>HTML, CSS, JavaScript<br><br>How to Reach Me:<br>Email: Rohitbanala2003@gmail.com  <br>LinkedIn: https://www.linkedin.com/in/rohitbanala/
+Hi, I'm Rohit Banala! 👋<br><br>About Me:<br>Completed Bachelor of Technology in Mechanical Engineering from IIIT Ongole, now learning front-end development.<br>Currently learning JavaScript to broaden my development skills.<br>Working on personal projects to enhance my skills.<br><br>Projects:<br>Omnifood: A web app focused on personalized meal planning, developed using HTML and CSS.<br><br>Skills:<br>HTML, CSS, JavaScript<br><br>How to Reach Me:<br>Email: Rohitbanala2003@gmail.com  <br>LinkedIn: https://www.linkedin.com/in/rohitbanala/
 
 
 ## 🌐 Socials:
